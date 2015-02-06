@@ -1,5 +1,6 @@
 # Composer demo package composer zip
 
+```
 {
     "repositories": [
         {
@@ -21,3 +22,4 @@
         "demo/php": "demo/jquery"
     }
 }
+```
