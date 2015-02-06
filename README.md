@@ -1,5 +1,7 @@
 # Composer demo package composer zip
 
+## How load the library using source
+
 ```
 {
     "repositories": [
@@ -14,9 +16,7 @@
                     "reference": "origin/master"
                 },
             "autoload": {
-                },
-            "target-dir": "web/node_modules"
-            }
+                }
         }
     ],
     "require": {
@@ -24,3 +24,6 @@
     }
 }
 ```
+
+## How load the library using zip
+
