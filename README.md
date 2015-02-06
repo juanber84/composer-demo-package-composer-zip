@@ -9,7 +9,7 @@
             "type": "package",
             "package": {
                 "name": "demo/jquery",
-                "version": "2.1.3",
+                "version": "dev-master",
                 "source": {
                     "url": "https://github.com/jquery/jquery.git",
                     "type": "git",
@@ -17,10 +17,11 @@
                 },
             "autoload": {
                 }
+            }
         }
     ],
     "require": {
-        "demo/jquery": "2.1.3"
+        "demo/jquery": "dev-master"
     }
 }
 ``` 
