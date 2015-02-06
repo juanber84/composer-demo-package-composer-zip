@@ -1,4 +1,4 @@
-# Composer demo package composer zip
+# Composer demo package zip
 
 ## How load the library using source
 
