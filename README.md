@@ -7,7 +7,7 @@
             "type": "package",
             "package": {
                 "name": "demo/jquery",
-                "version": "dev-master",
+                "version": "2.1.3",
                 "source": {
                     "url": "https://github.com/jquery/jquery.git",
                     "type": "git",
@@ -19,7 +19,7 @@
         }
     ],
     "require": {
-        "demo/php": "demo/jquery"
+        "demo/jquery": "2.1.3"
     }
 }
 ```
