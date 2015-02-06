@@ -42,6 +42,7 @@
                 },
             "autoload": {
                 }
+            }
         }
     ],
     "require": {
