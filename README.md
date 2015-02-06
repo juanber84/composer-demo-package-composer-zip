@@ -14,7 +14,8 @@
                     "reference": "origin/master"
                 },
             "autoload": {
-                }
+                },
+            "target-dir": "web/node_modules"
             }
         }
     ],
